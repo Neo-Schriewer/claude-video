@@ -1,11 +1,9 @@
 # Schule
+- Name: Neo
 - Klassenstufe: 10
-- Schule: Sportgymnasium, Jena (Thüringen) – Training neben der Schule
-- Angegebene Schulform: "Realschule" (unklar, siehe Offene Fragen)
+- Schule: Realschule am Sportgymnasium Jena (Thüringen), Angabe von Neo
 - Bundesland: Thüringen
 - Fächer (mit Lehrkraft-Eigenheiten): _offen_
-- Wichtige Termine (Klausuren, Abgaben): _offen_
-
-## Offene Fragen
-- Gymnasium oder Regelschule? Das bestimmt Lehrplan, Prüfungen und Abschluss (Thüringen hat keine klassische Realschule mehr; Regelschule führt in Klasse 10 zum Realschulabschluss, Gymnasium geht in die Oberstufe).
-- Steht eine Abschlussprüfung in Klasse 10 an?
+- Klausuren/Tests: Fr 27.11. und die Woche 30.11.–04.12. (Details folgen, Neo schickt sie)
+- Wichtig: **Winterlager 14.–18.12.** = eine Schulwoche fällt aus. Klausuren/Abgaben davor planen, Stoff vor- bzw. nacharbeiten.
+- Weihnachtsferien laut Akademieplan: 23.12.2026 – 02.01.2027

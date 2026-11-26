@@ -1,5 +1,5 @@
 # Zeitbudget
-- Training/Wettkämpfe (Tage, Uhrzeiten): _offen_
-- Lernzeit werktags (Min): _offen_
-- Lernzeit am Wochenende (Min): _offen_
-- Hinweis: Wegen des Trainings Lernblöcke kurz (25–40 Min) und mit festen Wiederholungsterminen planen.
+- Training: siehe `training.md`. Abendtraining Di/Mi/Do/Fr, Wochenende Spiele.
+- Lernfenster typischerweise: Vormittag-Freistunden, Nachmittag bis Training, Abend nach Training (müde, daher nur Wiederholen/Karteikarten, kein neuer Stoff).
+- Lernblöcke: 25–40 Min, danach 5–10 Min Pause.
+- Lernzeit werktags / Wochenende (Min): _offen_
