@@ -1,2 +1,2 @@
 # Budget-Cap
-_Monatliches Limit pro Kanal/Tool. Agenten dürfen nie darüber hinaus._
+**0 €.** Nur Gratis-Tools und Gratis-Tarife. Keine Abos, keine Ads, keine kostenpflichtigen Features. Kein Agent darf Ausgaben auslösen.

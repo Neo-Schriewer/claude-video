@@ -1,3 +1,4 @@
 # Approval-Bar
-Standard: **Alles braucht Owner-Freigabe.**
-_Lockern nur bewusst, z. B.: 'Newsletter-Entwürfe und Posts nach Template X dürfen nach 24 h automatisch live, wenn Qualitätscheck bestanden.'_
+**Jeder Post, jede Nachricht, jedes Profil-Update braucht die Freigabe von Neo.** Das System veröffentlicht nichts selbst.
+Zusätzlich: Bei Inhalten mit Vereinsbezug, anderen Personen (Mitspieler, Trainer) oder Vertragsthemen vorher Eltern/Akademie fragen (Neo ist minderjährig).
+Lockern nur bewusst und schriftlich, nie bei Sicherheitsregeln.

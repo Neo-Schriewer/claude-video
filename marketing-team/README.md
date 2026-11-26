@@ -1,5 +1,7 @@
 # The One-Person Marketing Team
 
+> **Zweck hier: Athleten-Marke von Neo (Basketball).** Siehe `docs/athlete-brand.md` und `marketing-os/brand/safety-rules.md`.
+
 Nachbau der Architektur aus dem TikTok von **@structurewebworks** ("The One-Person Marketing Team", 36 Agenten).
 Ziel: Ein Mensch (Owner) gibt Rahmen vor, ein Orchestrator mit sechs Abteilungen erledigt den Rest.
 
